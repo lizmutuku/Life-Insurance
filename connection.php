@@ -2,9 +2,9 @@
 
 //EDIT Your Database name, Username and Password here
 $servername = "localhost";
-$username   = "applefix_liz";
-$password   = "Elizabeth_987";
-$dbname     = "applefix_liz";
+$username   = "";
+$password   = "";
+$dbname     = "";
 
 
  // Create connection
